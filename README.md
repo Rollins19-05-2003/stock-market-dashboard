@@ -48,7 +48,7 @@ Eg.
 2. npm install
 3. npm run dev
 4. select the stock from the dropdown
-5. It automatically call the api for "1y" duration
+5. It automatically call the api for "6m" duration i.e., 6 Months
 6. The duration button are dynamic on the available duration, if duration is available, it highlight with color, else grey;
 7. it automatically call the api till n(i am calling six time);
 8. You can switch to new duration, it will fetch new data.
@@ -56,4 +56,7 @@ Eg.
 ### Instructions to run the backend API
 1. cd backend
 2. npm install
-3. npm run dev
+3. npm start
+
+### DEMO VIDEO LINK
+https://www.youtube.com/watch?v=xIoCCUZtK8Q
